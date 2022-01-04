@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,eclipse,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,eclipse,java
@@ -69,6 +70,8 @@ local.properties
 .sts4-cache/
 
 ### Java ###
+=======
+>>>>>>> 54d2e6b5a26cb8b39805228a8ed1f375eb52cca7
 # Compiled class file
 *.class
 
